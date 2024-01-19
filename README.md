@@ -1,3 +1,3 @@
 # Hi~
-🎓 Taejae Winter Intensive Course \
+✏️ Taejae Winter Intensive Course \
 🐰 Eunyoung Chang

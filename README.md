@@ -1,3 +1,3 @@
-# Hi 👋
-Taejae Winter Intensive Course \
-2023023 Eunyoung Chang
+# Hi~
+🎓 Taejae Winter Intensive Course \
+🐰 Eunyoung Chang

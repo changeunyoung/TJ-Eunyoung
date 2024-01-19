@@ -1,6 +1,7 @@
 print("Welcome to Eunyonng's Calculator!\n")
 
 while True:
+    print(" ")
     print("Please select and enter an operation:")
     print("+\n-\n*\n/\n")
     selection = input()
@@ -23,7 +24,7 @@ while True:
 
     print("")
 
-    another = input("Is there anything else you would like to do? Enter yes or no: ")
+    another = input("Is there anything else you would like to do? Enter yes or no:")
     if another == 'yes':
         continue
     elif another == 'no':

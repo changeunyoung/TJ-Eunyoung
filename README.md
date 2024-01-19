@@ -1,3 +1,3 @@
 # Hi 👋
-Taejae Winter Intensive Course n\
+Taejae Winter Intensive Course \
 2023023 Eunyoung Chang
